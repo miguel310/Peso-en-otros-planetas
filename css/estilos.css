@@ -1,0 +1,18 @@
+body
+{
+  padding: 10px;
+  margin: 40px;
+  font-size: 24px;
+  font-family: helvetica;
+  background-image: url(https://www.teahub.io/photos/full/193-1933369_space-wallpaper-background-space-planets.jpg);
+  background-repeat: no-repeat;
+  background-size: auto;
+  color: white;
+}
+
+nav
+{
+  background-color: black;
+  padding: 0px;
+  color: #3a04c4;
+}
